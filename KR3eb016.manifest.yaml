@@ -28,8 +28,8 @@ assets:
   - {seq: 0, role: markers, filename: assets/KR3eb016_000.markers.yaml, hash: 'sha256:0e631184f472bb529060950385f2ff7489ef7fdaeb7537a03c48da9761a86c3a'}
   - {seq: 1, role: markers, filename: assets/KR3eb016_001.markers.yaml, hash: 'sha256:ac0ee0c135ba7a9eef7ef0df4db85cb520a2b2e9fd62c566714afc34042db197'}
   - {seq: 2, role: markers, filename: assets/KR3eb016_002.markers.yaml, hash: 'sha256:870f231ff77a1c618c8c128e47a08a655f5834acfc01f3df3ea95cdd3ebb2d4e'}
-  - {seq: 3, role: markers, filename: assets/KR3eb016_003.markers.yaml, hash: 'sha256:d7f5081ad78ece596e6425c0d581068b9f18a2ecaae19faa92b7cc719005eff9'}
-  - {seq: 4, role: markers, filename: assets/KR3eb016_004.markers.yaml, hash: 'sha256:abab1118bfc469b4ad8447962a9d8e0ff85ca8d9f8b644ef7e5c2ba166337e2c'}
+  - {seq: 3, role: markers, filename: assets/KR3eb016_003.markers.yaml, hash: 'sha256:cfbcbb323e757567942e249a3697a42ff4bee0904cba00bd26b340b49def5f47'}
+  - {seq: 4, role: markers, filename: assets/KR3eb016_004.markers.yaml, hash: 'sha256:d993c9c5ebfd2e979fe27190fb9da2e407cae6a3f3c74a07ac4056fb03c7546e'}
   - {seq: 5, role: markers, filename: assets/KR3eb016_005.markers.yaml, hash: 'sha256:ffefe5a771bca1baf37da8fcdb59e4dd8c768485b93d59649064c3ca192135d3'}
   - {seq: 6, role: markers, filename: assets/KR3eb016_006.markers.yaml, hash: 'sha256:96b6e07b0c14e94e38a71055e7883411d1171a538e5c82958cd0e23dd960a61c'}
 table_of_contents:
@@ -1293,7 +1293,7 @@ table_of_contents:
   label: 小兒外證一十五候歌
   type: section
   level: 2
-hash: sha256:51c5343d24188ae52b344ab4c6040e1b7dd4cb49ee06c8dbbcf57e0fc5517379
+hash: sha256:9d87eb4799f611092d162f8bf1d906c042e6697fd73e006caa07409328303a00
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
